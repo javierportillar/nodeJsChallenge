@@ -1,2 +1,2 @@
 # Ignorar archivo de configuración con información privada
-config/privateInfo.js
+./config/privateInfo.js
